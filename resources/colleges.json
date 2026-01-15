@@ -1,0 +1,124 @@
+{
+    "ar": [
+        {
+            "name": "MIT",
+            "portal": "https://apply.mitadmissions.org/apply/status",
+            "status": 2
+        },
+        {
+            "name": "Princeton University",
+            "portal": "https://apply.princeton.edu/apply/status",
+            "status": 0
+        },
+        {
+            "name": "Northwestern University",
+            "portal": "https://ugadmission.northwestern.edu/apply/status?",
+            "status": 0
+        },
+        {
+            "name": "Cornell University",
+            "portal": "https://engage.admissions.cornell.edu/apply/status",
+            "status": 0
+        },
+        {
+            "name": "Tufts University NESCAC",
+            "portal": "https://ugrad.admissions.tufts.edu/status",
+            "status": 0
+        },
+        {
+            "name": "University of Toronto",
+            "portal": "https://apply.adm.utoronto.ca/portal/status?cmd=sts",
+            "status": 0
+        },
+        {
+            "name": "University of Washington Seattle",
+            "portal": "https://idp.u.washington.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+            "status": 0
+        },
+        {
+            "name": "Northeastern University",
+            "portal": "https://apply.northeastern.edu/portal/app_status?utm_campaign=FRapplicant&utm_content=ASC_appacknowledge&utm_medium=email&utm_source=deliver&utm_term=fa26",
+            "status": 0
+        },
+        {
+            "name": "UC San Diego",
+            "portal": "https://beatriton.ucsd.edu/apply/status",
+            "status": 0
+        },
+        {
+            "name": "UC Irvine",
+            "portal": "https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2",
+            "status": 0
+        },
+        {
+            "name": "University of Michigan Ann Arbor",
+            "portal": "https://enrollmentconnect.umich.edu/account/login?r=https%3a%2f%2fenrollmentconnect.umich.edu%2fapply%2fstatus&cookie=1",
+            "status": 0
+        },
+        {
+            "name": "UC Santa Barbara",
+            "portal": "url",
+            "status": 0
+        },
+        {
+            "name": "California State Polytechnic, SLO",
+            "portal": "https://idp.calpoly.edu/idp/profile/cas/login?execution=e1s1",
+            "status": 0
+        },
+        {
+            "name": "University of Illinois at Urbana Champaign",
+            "portal": "https://myillini.illinois.edu/Dashboard",
+            "status": 0
+        },
+        {
+            "name": "Purdue University",
+            "portal": "https://apply.purdue.edu/account/login?r=https%3a%2f%2fapply.purdue.edu%2fapply%2fstatus%3fcmd%3dstatus&cookie=1",
+            "status": 1
+        },
+        {
+            "name": "University of British Columbia",
+            "portal": "url",
+            "status": 0
+        },
+        {
+            "name": "UC Davis",
+            "portal": "https://cas.ucdavis.edu/cas/login?service=https%3A%2F%2Fmyadmissions%2Eucdavis%2Eedu%2Fapplicants%2Fcurrent%2Fstatus%2Findex%2Ecfm",
+            "status": 0
+        },
+        {
+            "name": "University of Wisconsin Madison",
+            "portal": "https://login.wisc.edu/idp/profile/SAML2/POST/SSO?execution=e1s2",
+            "status": 0
+        },
+        {
+            "name": "CSU San Jose State*",
+            "portal": "url",
+            "status": 0
+        },
+        {
+            "name": "UC Santa Cruz",
+            "portal": "url",
+            "status": 0
+        },
+        {
+            "name": "CSU Long Beach*",
+            "portal": "url",
+            "status": 0
+        },
+        {
+            "name": "UC Riverside",
+            "portal": "https://auth.ucr.edu/cas/login?service=https%3a%2f%2fconnect.ucr.edu%2fmanage%2flogin%3fr%3dhttps%253a%252f%252fconnect.ucr.edu%252fapply%252fstatus%253ftab%253dhome%26realm%3d",
+            "status": 0
+        },
+        {
+            "name": "UC Merced",
+            "portal": "http://url9909.ucmerced.edu/ls/click?upn=u001.l3qNHxFsjsLgduQH3LhzN-2FMN6Dft2rydK1QzHttvuJnAaGKVdKQOnBlItfsGGC051HGo_QXnTW6f9jV7ots26-2Fd0iCHgsJO-2Brwebb4BlqRAR-2BhQSeX5bN9ncg5sk8KJ12b-2FYIAV7MqUGZArmPdJ2vPwbqiAynQcrelUkW4tYM5NOTje39EN-2BqsnjefGCDdqL4Dq9SU8b9FuPv-2FhLuk-2BeT7v5ZzUFWVGQeJQdndjPUuiAsh3GCRnjdKiHIVQM24VA3sihp-2F84kb6VxsFubCapZKN8VQ0N5IbfHKdBPrO8nAFzU0AFRlpD4B0g0h8OeadaiKkH91u-2B1WBb98-2BkvjbKUgIYuC53ZZ1ZDNqylvfacgQQnvxoFG6De2wVOahra0a0Wb80cG9CeecYvDhDPagaq1d0-2BNg-3D-3D",
+            "status": 1
+        },
+        {
+            "name": "Stanford University",
+            "portal": "https://apply.stanford.edu/account/login?r=https%3a%2f%2fapply.stanford.edu%2fapply%2fstatus",
+            "status": 0
+        }
+    ]
+}
